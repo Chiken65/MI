@@ -1,0 +1,46 @@
+TABLE
+0,1
+"EXCEL"
+VECTORS
+0,2
+""
+TUPLES
+0,7
+""
+DATA
+0,0
+""
+-1,0
+BOT
+1,0
+"Name"
+1,0
+"Email"
+1,0
+"Phone"
+1,0
+"Gender"
+1,0
+"Age"
+1,0
+"boarding point"
+1,0
+"Departure point"
+-1,0
+BOT
+1,0
+"Rohith"
+1,0
+"rohith@gmail.com"
+0,8374384580
+V
+1,0
+"Male"
+0,22
+V
+1,0
+"Visakhapatnam"
+1,0
+"North Pole"
+-1,0
+EOD
